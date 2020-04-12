@@ -1,8 +1,17 @@
 $(document).ready(function(){
 
+    isArticle= $("html").data('article');
+    let path = '';
     let header = $('#header-loader');
-    header.load('includes/'+header.data('include'));
-
     let footer = $('#footer-loader');
-    footer.load('includes/'+footer.data('include'));
+    if(isArticle == true){
+        header.load('../../../../includes/'+header.data('include'));
+        footer.load('../../../../includes/'+footer.data('include'));
+    }
+    else{
+        header.load('includes/'+header.data('include'));
+        footer.load('includes/'+footer.data('include'));
+    }
+
+
 });
