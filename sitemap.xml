@@ -9,82 +9,107 @@
 
 <url>
   <loc>https://why.yj.fr/</loc>
-  <lastmod>2020-04-14T08:32:11+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/it/pourquoi_apprendre_java/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:40+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://why.yj.fr/articles/it/pourquoi_apprendre_c++/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:39+00:00</lastmod>
+  <loc>https://why.yj.fr/articles/sante_nutrition/pourquoi_manger_les_fruits/fr/index.html</loc>
+  <lastmod>2020-04-14T19:11:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/Marketing/pourquoi_apprendre_marketing_general/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:41+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/metier_informatique/pourquoi_devenir_dev_web/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:43+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/metier_informatique/pourquoi_devenir_webdesigner/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:43+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/it/pourquoi_apprendre_python/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:41+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/it/pourquoi_apprendre_c/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:39+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://why.yj.fr/articles/it/pourquoi_apprendre_c++/fr/index.html</loc>
+  <lastmod>2020-04-14T19:11:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/it/pourquoi_apprendre_javascript/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:40+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/Marketing/pourquoi_apprendre_digital_marqueting/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:41+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/Marketing/pourquoi_apprendre_marketing_influence/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:42+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/Marketing/pourquoi_apprendre_marketing_lancer_une_apli/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:42+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/Marketing/pourquoi_apprendre_marketing_nouveau_produit_marcher/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:42+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/metier_informatique/pourquoi_devenir_webmaster/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:44+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/metier_informatique/pourquoi_devenir_dev_wordpress/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:43+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://why.yj.fr/articles/metier_informatique/pourquoi_devenir_integrateur_web/fr/index.html</loc>
-  <lastmod>2020-04-14T08:21:43+00:00</lastmod>
+  <lastmod>2020-04-14T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://why.yj.fr/articles/sante_nutrition/pourquoi_manger_bio/fr/index.html</loc>
+  <lastmod>2020-04-14T19:11:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://why.yj.fr/articles/sante_nutrition/pourquoi_manger_equiliber/fr/index.html</loc>
+  <lastmod>2020-04-14T19:11:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://why.yj.fr/articles/sante_nutrition/pourquoi_manger_la_viande/fr/index.html</loc>
+  <lastmod>2020-04-14T19:11:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://why.yj.fr/articles/sante_nutrition/pourquoi_manger_les_legumes/fr/index.html</loc>
+  <lastmod>2020-04-14T19:11:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
